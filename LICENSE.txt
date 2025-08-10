@@ -1,0 +1,3 @@
+FreeCAD Files (.FCStd) used to collect parts into logical groupings are covered by the CERN Open Hardware License Version 2 - Permissive
+
+Binary Files (.stp, etc) contributed to the library are used by reference and not covered by this license
